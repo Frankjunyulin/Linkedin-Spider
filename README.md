@@ -1,6 +1,6 @@
-# LinkedinMemberSpider
+# Linkedin-Spider
 
-LinedinMemberSpider is strong linkedin spider written in Python3. It scrapes all the details in public information according to the name you input.
+Linkedin-Spider is strong linkedin spider written in Python3. It scrapes all the details in public information according to the name you input.
 
 ## Running Environment (what you need to install before running):
  * selenium</br>
