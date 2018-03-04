@@ -1,6 +1,6 @@
 # Linkedin-Spider
 
-Linkedin-Spider is inkedin spider written in Python3. 
+A spider for linkedin written in Python3. 
 
 It scrapes all the details in public information according to the name you input.
 
