@@ -1,4 +1,4 @@
-# LinedinMemberSpider
+# LinkedinMemberSpider
 
 LinedinMemberSpider is strong linkedin spider written in Python3. It scrapes all the details in public information according to the name you input.
 
