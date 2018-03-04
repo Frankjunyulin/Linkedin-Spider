@@ -26,3 +26,5 @@ Linkedin-Spider is strong linkedin spider written in Python3. It scrapes all the
   It is where the results stores.
   
   
+## Running command:
+python3 LinSpider.py
