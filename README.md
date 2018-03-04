@@ -31,7 +31,7 @@ For example:
 | 000 | Clark     | Kent     |
 | 001 | Bruce     | Wayne    |
   
-### output file
+### Output file
   It is where the results stores.
   
   
