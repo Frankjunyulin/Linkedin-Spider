@@ -21,7 +21,7 @@ It scrapes all the details in public information according to the name you input
   Used to login your account before scraping.
 
 ### Input file
-  It should be a "xlx" or "xlsx" file which has three columns which includes id, first name and last last name of people.</br> 
+  It should be a "xls" or "xlsx" file which has three columns which includes id, first name and last last name of people.</br> 
   Id is that id you give. If you don't need it, you can keep the cells blank.</br>
   
 For example:
