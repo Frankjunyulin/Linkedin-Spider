@@ -2,6 +2,8 @@
 
 A spider for linkedin written in Python3. 
 
+It is developed for powerful scraping but easy to use at the same time.
+
 It scrapes all the details in public information according to the name you input.
 
 ## Running Environment (what you need to install before running):
