@@ -27,4 +27,6 @@ It scrapes all the details in public information according to the name you input
   
   
 ## Running command:
+```
 python3 LinSpider.py
+```
