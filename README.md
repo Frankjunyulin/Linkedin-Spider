@@ -1,6 +1,6 @@
 # linkedin-Spider
 
-A linkedin spider written in Python3. It can scrapes all the details of public information according to the name you input.
+LinSpider is strong linkedin spider written in Python3. It can scrapes all the details in public information according to the name you input.
 
 ## Running Environment (what you need to install before running):
  * selenium</br>
@@ -13,8 +13,16 @@ A linkedin spider written in Python3. It can scrapes all the details of public i
   <br></br>
 
 ## Running Instructions:
-  You will be asked to input: your username, you password.
+  You will be asked to input: your username, you password, the name of input file and the name of output file.</br>
   
-  More detail will come soon. </br>
+### Username and password:
+  Used to login your account before scraping.
+
+### Input file
+  It should be a "xlx" or "xlsx" file which has three columns which includes id, first name and last last name of people.</br> 
+  Id is that id you give. If you don't need it, you can keep the cells blank.</br>
   
-  Welcome to commit!
+### output file
+  It is where the results stores.
+  
+  
