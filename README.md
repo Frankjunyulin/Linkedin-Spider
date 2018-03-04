@@ -1,6 +1,6 @@
 # linkedin-Spider
 
-A linkedin spider written in Python3. </br>
+A linkedin spider written in Python3. It can scrapes all the details of public information according to the name you input.
 
 ## Running Environment (what you need to install before running):
  * selenium</br>
