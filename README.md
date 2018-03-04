@@ -1,6 +1,8 @@
 # Linkedin-Spider
 
-Linkedin-Spider is strong linkedin spider written in Python3. It scrapes all the details in public information according to the name you input.
+Linkedin-Spider is strong linkedin spider written in Python3. 
+
+It scrapes all the details in public information according to the name you input.
 
 ## Running Environment (what you need to install before running):
  * selenium</br>
@@ -9,8 +11,6 @@ Linkedin-Spider is strong linkedin spider written in Python3. It scrapes all the
  * xldd</br>
  * xlrt</br>
  * xlutils
-  
-  <br></br>
 
 ## Running Instructions:
   You will be asked to input: your username, you password, the name of input file and the name of output file.</br>
