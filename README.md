@@ -27,9 +27,9 @@ It scrapes all the details in public information according to the name you input
 For example:
   
 | id  | firstName | lastName |
-| ----|:---------:| --------:|
+| --- |:---------:| --------:|
 | 000 | Clark     | Kent     |
-| 001 | Brucee    | Wayne    |
+| 001 | Bruce     | Wayne    |
   
 ### output file
   It is where the results stores.
