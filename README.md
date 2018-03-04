@@ -1,4 +1,4 @@
-# linkedin-Spider
+# linSpider
 
 LinSpider is strong linkedin spider written in Python3. It can scrapes all the details in public information according to the name you input.
 
