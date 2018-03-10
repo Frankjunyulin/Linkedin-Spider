@@ -1,5 +1,8 @@
 # Linkedin-Spider
 
+[![built with Selenium](https://img.shields.io/badge/built%20with-Selenium-yellow.svg)](https://github.com/SeleniumHQ/selenium)
+[![built with Python3](https://img.shields.io/badge/built%20with-Python3-red.svg)](https://www.python.org/)
+
 A spider for linkedin written in Python3. 
 
 It is developed for powerful scraping but easy to use at the same time.
