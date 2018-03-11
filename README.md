@@ -38,7 +38,12 @@ For example:
   It is where the results stores.
   
   
-## Running command:
+## Running Example:
 ```
 $ python3 LinSpider.py
+Linkedin Username: abc
+Linkedin Password: 123
+input file: input.xlsx
+output file: output.xlsx
 ```
+(Hint: "abc","123","input.xlsx" and "output.xlsx" are your username, password, name of input file and name of output file)
